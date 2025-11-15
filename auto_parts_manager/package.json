@@ -1,0 +1,14 @@
+{
+    "name": "auto_parts_manager",
+    "version": "1.0.0",
+    "description": "ERPNext app for selling auto parts with VIN search",
+    "main": "index.js",
+    "scripts": {
+        "build": "echo 'No build step required'"
+    },
+    "author": "ERPBox",
+    "license": "MIT",
+    "devDependencies": {
+        "frappe": "^15.0.0"
+    }
+}
