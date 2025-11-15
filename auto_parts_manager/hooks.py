@@ -9,32 +9,32 @@ app_license = "MIT"
 app_version = "1.0.0"
 
 fixtures = [
-	"Auto Part Category",
-	"Auto Part",
-	"Vehicle",
-	"Role",
-	"Role Permission"
+    "Auto Part Category",
+    "Auto Part",
+    "Vehicle",
+    "Role",
+    "Role Permission"
 ]
 
 desk_links = [
-	{
-		"label": "Vehicle",
-		"url": "/app/vehicle",
-		"icon": "fa fa-car",
-		"roles": ["Auto Manager", "Sales User"]
-	},
-	{
-		"label": "Auto Part",
-		"url": "/app/auto-part",
-		"icon": "fa fa-cogs",
-		"roles": ["Auto Manager", "Sales User"]
-	},
-	{
-		"label": "Auto Part Category",
-		"url": "/app/auto-part-category",
-		"icon": "fa fa-tags",
-		"roles": ["Auto Manager", "Sales User"]
-	}
+    {
+        "label": "Vehicle",
+        "url": "/app/vehicle",
+        "icon": "fa fa-car",
+                "roles": ["Auto Manager", "Sales User"]
+    },
+    {
+        "label": "Auto Part",
+        "url": "/app/auto-part",
+        "icon": "fa fa-cogs",
+                "roles": ["Auto Manager", "Sales User"]
+    },
+    {
+        "label": "Auto Part Category",
+        "url": "/app/auto-part-category",
+        "icon": "fa fa-tags",
+                "roles": ["Auto Manager", "Sales User"]
+    }
 ]
 
 app_include_js = [

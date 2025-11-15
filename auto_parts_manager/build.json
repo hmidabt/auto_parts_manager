@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 
+=======
+{
+    "css": {},
+    "js": {
+        "auto_parts_manager.bundle.js": [
+            "js/pos_invoice.js"
+        ]
+    }
+}
+>>>>>>> 9400bdc (Sauvegarde de mes modifications locales)
