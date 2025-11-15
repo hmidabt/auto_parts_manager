@@ -1,4 +1,5 @@
 {
+    "css": {},
     "js": {
         "auto_parts_manager.bundle.js": [
             "public/js/pos_invoice.js"
