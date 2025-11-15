@@ -1,9 +1,7 @@
 {
     "js": {
         "auto_parts_manager.bundle.js": [
-            "public/js/pos_invoice.js",
-            "public/js/vehicle.js",
-            "public/js/vin_lookup.js"
+            "public/js/pos_invoice.js"
         ]
     }
 }
